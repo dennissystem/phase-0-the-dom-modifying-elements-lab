@@ -1,7 +1,6 @@
 // Write your code here!
-
-const newHeader = document.createElement("h1");
+main.remove(main)
+const newHeader = document.createElement('h1')
 document.body.appendChild(newHeader);
-newHeader.id="victory";
-document.querySelector("h1#victory");
-mainWithMainId = document.querySelector("#main").remove();
+newHeader.id='victory'
+victory.innerHTML = "<h1>Eren is the champion</h1>"
